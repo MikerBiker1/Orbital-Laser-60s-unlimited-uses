@@ -70,7 +70,7 @@ mismatched records, and rollback after simulated write/readback failures.
 
 ## Credits
 
-Release project: %username%, with coding and testing assistance from ChatGPT/Codex.
+Release project: Miker, with coding and testing assistance from ChatGPT/Codex.
 Requires Bingus Shared Loader by CowboyBingus; the loader is distributed separately.
 Memory access helpers were adapted from the supplied M6C SOCOM AP4 Durable 60 v2.0.0
 addon. Source attribution is retained; this package does not assert ownership of
