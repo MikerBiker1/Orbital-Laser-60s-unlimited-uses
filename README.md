@@ -78,3 +78,5 @@ that upstream work or grant additional rights to it.
 
 Editable source and the offline test script are included as reference files.
 They are not deployed by the mod manager. See DEVELOPMENT.md for rebuilding.
+
+If you enjoy my mods and would like to support my work, consider buying me a coffee on Ko-fi! Any support is greatly appreciated. https://ko-fi.com/mikerbiker
